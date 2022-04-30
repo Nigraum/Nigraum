@@ -23,11 +23,12 @@
   <a href="#"><img alt="PS" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=black&labelColor=navy"></a>
 </p>
 
-<div align="justified">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nigraum&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigraum&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
+  <a href="https://github.com/Nigraum">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Nigraum&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigraum&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gwyrth&cover_image=true&theme=default&bar_color=80ec7e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
