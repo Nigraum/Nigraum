@@ -31,6 +31,11 @@
 </div>
 
 
-[![Spotify](https://test-spotify-nigraum.vercel.app/api/spotify)](https://open.spotify.com/user/gwyrth)
-  
-  ![Snake animation](https://github.com/Nigraum/Nigraum/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://open.spotify.com/user/gwyrth">
+    <img src="https://test-spotify-nigraum.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing gwyrth"/>
+  </a>
+</div>
+
+
+![Snake animation](https://github.com/Nigraum/Nigraum/blob/output/github-contribution-grid-snake.svg)
