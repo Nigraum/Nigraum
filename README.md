@@ -38,4 +38,5 @@
 </div>
 
 
+
 ![Snake animation](https://github.com/Nigraum/Nigraum/blob/output/github-contribution-grid-snake.svg)
