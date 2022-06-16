@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="80px">, I'm Yan</h1>
 <h3 align="center">A brazilian hardworking student with ambitious goals.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Java, Kotlin, Python, MySQL**
+<!---- 🌱 I’m currently learning **HTML, CSS, JS, Java, Kotlin, Python, MySQL** -->
 
 - 📫 How to reach me **yan.corintima@hotmail.com**
 
