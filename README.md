@@ -16,6 +16,18 @@
 <a href="https://aws.amazon.com">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />         
 </a>
+<a href="https://azure.microsoft.com/en-us/">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="40" height="40" />
+</a>
+<a href="https://kubernetes.io">       
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="40" height="40" />          
+</a>
+<a href="docker.com">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+</a>
+<a href="grafana.com">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="40" height="40" />
+</a>
 <a href="https://tailwindcss.com/">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
