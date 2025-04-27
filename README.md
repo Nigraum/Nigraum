@@ -13,6 +13,9 @@
 </p>
 
 <h3 align="left">Languages and Tools that I am learning:</h3>
+<a href="https://aws.amazon.com">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />         
+</a>
 <a href="https://tailwindcss.com/">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
