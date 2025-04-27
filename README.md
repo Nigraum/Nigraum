@@ -24,8 +24,6 @@
 ### Editor  
 <p>
   <a href="#"><img alt="NVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></a>
-  <a href"#"> <img  alt="Ai" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
-  <a href="#"><img alt="PS" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
 </p>
 
 <div align="center">
